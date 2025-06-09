@@ -1,0 +1,7 @@
+tqdm>=4.67.0
+pandas>=2.2
+lets-plot>=4.5.1
+requests>=2.26
+python-dotenv>=1
+ipykernel>=6.2
+sqlalchemy>=2.0.36
